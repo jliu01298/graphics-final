@@ -23,5 +23,7 @@ Gouraud Shading
 # Features Accomplished
 
 A mesh command
+
 Phong Shading
+
 Gouraud Shading
