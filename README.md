@@ -18,3 +18,10 @@ Phong Shading, while still keeping flat shading
 # Features I'd implement if I had time
 
 Gouraud Shading
+
+
+# Features Accomplished
+
+A mesh command
+Phong Shading
+Gouraud Shading
