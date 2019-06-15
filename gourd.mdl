@@ -1,0 +1,12 @@
+// Note: This uses the light values in the provided source code.
+shading phong
+constants shiny_purple 0.3 0.2 0.8 0.3 0 0 0.3 0.2 0.8
+constants shiny_teal 0.3 0.0 0.0 0.3 0.2 0.8 0.3 0.2 0.8
+constants dull_yellow 0.3 0.8 0.2 0.3 0.8 0.2 0 0 0
+constants bronze 0.2125 0.1275 0.054 0.714 0.4284 0.18144 0.393548 0.271906 0.166721
+push
+scale 100 100 100
+move 2 2 0
+mesh bronze :gourd
+display
+save gourd.png
