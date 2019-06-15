@@ -121,7 +121,6 @@ def run(filename):
         for knob in frame.keys():
                 symbols[knob] = frame[knob]
         for command in commands:
-            print command
             c = command['op']
             args = command['args']
             knob_value = 1
